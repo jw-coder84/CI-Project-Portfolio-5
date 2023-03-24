@@ -8,7 +8,7 @@
 ## Business Requirements
 
 * 1 - The client is interested in conducting a study to visually differentiate a healthy cherry leaf from one with powdery mildew.
-* 2 - The client is interested in predicting if a cherry leaf is healthy or contains powdery mildew.
+* 2 - The client is interested in telling whether a given cherry leaf is covered with powdery mildew or not.
 
 
 ## Hypothesis and how to validate?
@@ -56,7 +56,7 @@ To save time in this process, the IT team suggested an ML system that detects in
 	* Checkbox 2 - Differences between average healthy and average mildew covered leaves
 	* Checkbox 3 - Image Montage
 
-### Page 3: Malaria Detector
+### Page 3: Mildew Detector
 * Business requirement 2 information - "The client is interested in telling whether a given cherry leaf is covered with powdery mildew or not."
 * Link to download a set of cherry leaf images for live prediction.
 * User Interface with a file uploader widget. The user should upload multiple cherry leaf images. It will display the image and a prediction statement, indicating if the cherry leaf is covered with powdery mildew or not and the probability associated with this statement. 
