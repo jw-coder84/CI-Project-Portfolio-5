@@ -24,7 +24,6 @@ The cherry plantation crop is one of the finest products in the client's portfol
    * We will display the difference between an average healthy leaf and an average mildew leaf.
    * We will display an image montage for either healthy or mildew leaves.
 
-<br>
 
 * Business Requirement 2: Classification
 
@@ -51,7 +50,7 @@ The cherry plantation crop is one of the finest products in the client's portfol
 * The training data to fit the model has been provided by the client. Over 4000 images taken of their crop fields.
    * Train data - target: has mildew or not; features: all images.
 
-## Dashboard Design
+## Dashboard Design (Streamlit App User Interface)
 
 ### Page 1: Quick Project Summary
 * Quick project summary
