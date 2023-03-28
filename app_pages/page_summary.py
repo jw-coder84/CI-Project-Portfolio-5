@@ -16,7 +16,7 @@ def page_summary_body():
         f" In extreme cases, it should be brought under control.\n"
         f"The client does not want to supply the market with a product of compromised quality.\n\n"
         f"**Project Dataset**\n"
-        f"* The dataset is available on Kaggle and contains 4208 images"
+        f"* The dataset is available on Kaggle and contains 4208 images of cherry leaves with and without powdery mildew."
     )
 
     st.write(
